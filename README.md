@@ -2,6 +2,8 @@
 
 App Flutter Exemplificar BottomSheet Modal.
 
+![alt text](https://github.com/RogerPhilippe/f_bottomsheet_modal/blob/master/lib/images/Screenshot.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
